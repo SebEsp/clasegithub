@@ -1,0 +1,83 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: 0; }
+  
+  html {
+    font-size: 62.5%; }
+  
+  body {
+    background-image: linear-gradient(#252422, #212d40); }
+  
+  ul {
+    list-style: none; }
+    ul li {
+      margin: 1rem;
+      margin-left: 1.5rem;
+      padding: 1rem; }
+      ul li a {
+        list-style: none;
+        text-decoration: none;
+        color: #BEC1C4;
+        font-size: 2.3rem;
+        font-weight: bold;
+        border-left: solid 0.5rem #bc6c25;
+        text-align: center;
+        padding: 0.5rem; }
+  
+  ul div li .logoabmates {
+    border: none; }
+  
+  a .opciones {
+    text-decoration: none;
+    cursor: pointer; }
+  
+  .opciones:hover {
+    color: #bc6c25;
+    text-decoration: none; }
+  
+  main p {
+    font-size: 3rem;
+    color: #BEC1C4; }
+  
+  section img {
+    border-radius: 47px 47px 47px 47px; }
+  
+  .nuestrosproductos {
+    margin-bottom: 8rem; }
+    .nuestrosproductos h1 {
+      color: #BEC1C4;
+      margin: 5rem; }
+  
+  .nosotros {
+    padding: 1rem;
+    margin-left: 20rem;
+    margin-bottom: 20rem; }
+    .nosotros h1 {
+      color: #BEC1C4;
+      margin-bottom: 3rem;
+      margin-left: 1rem; }
+    .nosotros .divnosotros {
+      margin-left: 0.5rem; }
+      .nosotros .divnosotros p {
+        font-size: 2rem;
+        color: #BEC1C4;
+        width: 50%; }
+  
+  h1 {
+    color: #BEC1C4;
+    margin-left: 3rem; }
+  
+  
+  
+  footer {
+    background-color: black;
+    margin: 0.5rem;
+    padding: 0.5rem; }
+    footer ul {
+      color: #BEC1C4;
+      list-style: none; }
+      footer ul li {
+        list-style: none;
+        text-decoration: none;
+        font-size: 1.5rem; }
